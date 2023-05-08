@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MohammedGhazaly
-- 👀 I’m interested in Web and Mobile Dev
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me 
 - Facebook : https://www.facebook.com/profile.php?id=100044534551352
